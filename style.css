@@ -5,7 +5,7 @@
 
 #logo {
   color:white;
-  font-family:Arial;
+  font-family:'Courier New', Courier, monospace;
   background-color: rgb(113, 165, 113);
   display: inline-block;
   font-size: 40px;
@@ -16,16 +16,16 @@
 }
 
 #logo-name {
-font-size: 35px;
+font-size: 30px;
 font-weight: bold;
-font-family:Arial;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 margin: 30px;
 }
 
 #navigation a {
 
 color: dimgray;
-font-family:Arial;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 padding: 10px;
 }
 
@@ -43,6 +43,6 @@ padding: 10px;
 #main {
     width: 900px;
     margin: auto;
-    font-family: Arial;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
 }
